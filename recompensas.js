@@ -3,7 +3,7 @@
   "use strict";
   var KEY="meuestudo.recompensas.v1";
   var items=[
-    {id:"lilas",kind:"tema",name:"Lilás clássico",icon:"💜",cost:0,description:"Visual original",colors:["#8053dd","#ccb6ff"]},
+    {id:"lilas",kind:"tema",name:"Verde-limão (padrão)",icon:"🌿",cost:0,description:"Identidade visual dos meus sites",colors:["#0c0f11","#c0f16e"]},
     {id:"oceano",kind:"tema",name:"Oceano tranquilo",icon:"🌊",cost:80,description:"Azul e céu",colors:["#1771cc","#8bcafa"]},
     {id:"menta",kind:"tema",name:"Jardim de menta",icon:"🌿",cost:100,description:"Verde suave",colors:["#158674","#b3e7d3"]},
     {id:"amanhecer",kind:"tema",name:"Amanhecer",icon:"🌅",cost:120,description:"Pêssego e laranja",colors:["#de6d51","#ffc5a0"]},
